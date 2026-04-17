@@ -1,0 +1,48 @@
+1
+00:00:01,000 --> 00:00:04,000
+[POLISHED] Hello, welcome to this video tutorial.
+
+2
+00:00:05,000 --> 00:00:08,000
+[POLISHED] Today we will learn how to use this translation tool.
+
+3
+00:00:09,000 --> 00:00:12,000
+[POLISHED] First, you need to select your SRT file.
+
+4
+00:00:13,000 --> 00:00:16,000
+[POLISHED] Then configure your API settings.
+
+5
+00:00:17,000 --> 00:00:20,000
+[POLISHED] Finally, click the translate button to start.
+
+6
+00:00:21,000 --> 00:00:24,000
+[POLISHED] The tool will process your file batch by batch.
+
+7
+00:00:25,000 --> 00:00:28,000
+[POLISHED] You can see the progress in real time.
+
+8
+00:00:29,000 --> 00:00:32,000
+[POLISHED] The translated file will be saved automatically.
+
+9
+00:00:33,000 --> 00:00:36,000
+[POLISHED] Thank you for watching this tutorial.
+
+10
+00:00:37,000 --> 00:00:40,000
+[POLISHED] Please subscribe for more content.
+
+11
+00:00:41,000 --> 00:00:44,000
+[POLISHED] This tool supports multiple languages including French.
+
+12
+00:00:45,000 --> 00:00:48,000
+[POLISHED] Vous pouvez traduire en franÃ§ais facilement.
+
